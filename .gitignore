@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+Video/
+alerts/
+*.pt
+!models/best.pt
