@@ -127,4 +127,4 @@ Click **Upload Video** and select an exam video. Incidents appear in the Alert H
 - Dataset: *exam_cheating* by behavior-cheating, Roboflow Universe, CC BY 4.0. https://universe.roboflow.com/behavior-cheating/exam_cheating-keaor
 - Detection and tracking: [Ultralytics](https://github.com/ultralytics/ultralytics) YOLO11 and ByteTrack.
 
-Author: Asaf Esmat Wagih ([github.com/asafesmat](https://github.com/asafesmat))
+Author: Asaf Esmat Wagih ([github.com/asafesmat](https://github.com/asafesmat)) ([linkedin.com/asafesmat](https://www.linkedin.com/in/asaf-esmat-557004357/))
